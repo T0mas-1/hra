@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"ihg","order":1,"path":"sprites/ihg/ihg.yy",},
     {"name":"Sprite5","order":1,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }
