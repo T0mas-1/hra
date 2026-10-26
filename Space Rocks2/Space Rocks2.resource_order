@@ -1,7 +1,13 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"Obj_bullet","order":2,"path":"objects/Obj_bullet/Obj_bullet.yy",},
+    {"name":"Obj_game","order":4,"path":"objects/Obj_game/Obj_game.yy",},
+    {"name":"Obj_rock_big","order":3,"path":"objects/Obj_rock_big/Obj_rock_big.yy",},
+    {"name":"Obj_rock","order":5,"path":"objects/Obj_rock/Obj_rock.yy",},
     {"name":"ihg","order":1,"path":"sprites/ihg/ihg.yy",},
+    {"name":"loop","order":2,"path":"sprites/loop/loop.yy",},
+    {"name":"spr_rock_small","order":6,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
     {"name":"Sprite5","order":1,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }
